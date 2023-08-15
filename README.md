@@ -1,6 +1,6 @@
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adnan2016&label=Profile%20views&color=0e75b6&style=flat" alt="adnan2016" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nishat-Oishi&label=Profile%20views&color=0e75b6&style=flat" alt="Nishat-Oishi" /> </p>
 
 ### Hi there 👋
 
@@ -51,4 +51,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adnan2016&show_icons=true&locale=en" alt="adnan2016" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adnan2016&" alt="adnan2016" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nishat-Oishi&" alt="Nishat-Oishi" /></p>
