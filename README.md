@@ -7,7 +7,7 @@
 
 - 👀 I’m Oishi, aspiring Data Analyst.
 - 💻 I’m tech enthusiats and love writing about it.
-- 👨‍🎓 I’ve Master's Degree in Information Engineering!
+- 👨‍🎓 I’ve Bachelor's Degree in Computer Science!
 - 🌱 I’m continuously learning about Data Science, Machine Learning & AI
 - 💞 Interests: Writing, creating content, drawing and cricket
 - 💬 Ask me about Data Analysis, web dev & open source
